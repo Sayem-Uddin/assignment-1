@@ -1,0 +1,380 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Merriweather:wght@900&display=swap');
+
+section1{
+    justify-content: center;
+  align-items: center;
+  margin: auto;
+
+}
+
+.new-year{
+   
+  background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url(./resources/Banner\ Image.png);
+  background-repeat: no-repeat;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-position: center;
+  background-size:cover;
+  height:600px;
+  width:100%;
+ 
+}
+main{
+    margin: 0px 140px;
+  
+}
+.new-year h1{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+   
+    
+}
+.new-year h4{color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400px;
+    margin-bottom: -40px;
+   
+    
+}
+/* section-2 */
+#secton2{
+    align-items: center;
+}
+#secton2 h1{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+#section2 div{
+    text-align: center;
+}
+#section2 div h1{color: #F00;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+}
+#section2 div h5{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+
+}
+#section2 div h3{
+    color: #070211;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+
+}
+#section2 img{
+width: 802.9px;
+height: 500px;
+}
+/* section-3 */
+#section3{
+    display: flex;
+    background:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url(./resources/Vectorrr.png) ;
+    margin-top: 120px;
+    padding: 125px;
+    border-radius: 16px;
+    background-repeat: no-repeat;
+    align-items: center;
+    background-position: center;
+    background-size:cover;
+}
+    
+
+    #section3 div h1{
+        color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px; 
+letter-spacing:6px;
+
+    }
+    #section3 div p{
+        color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+    }
+    #section3 div button{
+        color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+background:transparent;
+border: none;
+
+
+    }
+    /* section-4 */
+    #section4{
+        background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        padding:100px 250px;
+        margin-top: 120px;
+        border-radius: 16px;
+        
+    }
+    #section4 p{
+        color: #070211;
+font-family: Inter;
+font-size: 32px;
+font-weight: 600px;
+
+}
+#section4 p span{
+    color: #F00;
+}
+#section4 button{
+    border-radius: 8px;
+background: #F00;
+width: 156px;
+height: 56px;
+border: none;
+color: #FFF;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+}
+/* section-5 */
+#section5{
+   display: flex;
+   justify-content:space-between;
+   align-items: center;
+   margin-top: 120px;
+   gap:70px;
+}
+#section5 h4{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    
+}
+#section5 .coming{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    
+  
+
+
+}
+#section5 p{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+
+}
+#section5 #circle{
+border-radius: 50%;
+border: 10px solid #F00;
+padding: 30px;
+width: 350px;
+height: 350px;
+
+}
+
+#section5 .two024{
+    color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+
+}
+/* section6 */
+#section6{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 120px;
+}
+#section6 h4{
+    color: #070211;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+
+}
+#section6 h1{
+    color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+}
+#section6 h1 span{
+    color:#F00;
+}
+#section6 p{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+
+}
+/* section7 */
+#section7{
+    margin-top: 120px;
+}
+#section7 h5{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+#section7 h1{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+
+}
+#section7 p{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+
+}
+.row-1{
+    display: flex;
+    gap: 24px;
+
+}
+.row-2{
+    display: flex;
+    gap: 24px;
+}
+.product-pic{
+display: flex;
+flex-direction: column;
+gap: 24px;
+}
+.row-1 img {
+    max-width: 370px;
+    max-height: 405px; 
+}
+.row-2 img {
+ max-width: 370px;
+ max-height: 405px; 
+}
+/* section-8 */
+#section8{
+    margin-top: 120px;
+justify-content: center;
+align-items: center;
+text-align: center;
+border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+}
+#section8 h1{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+   
+
+}
+#section8 p{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+padding-bottom: 50px;
+}
+#section8 div {
+display: flex;
+align-items: center;
+justify-content: center;
+padding-bottom: 80px;
+
+}
+#section8 div input{
+    width: 648px;
+height: 72px;
+border-top-left-radius: 50px;
+border-bottom-left-radius: 50px;
+border: none;
+}
+#section8 div button{
+    width: 210px;
+height: 72px;
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+border: none;
+color: #FFF;
+font-family: Inter;
+font-size: 20px;
+font-weight: 600;
+}
+input::placeholder{
+    color: rgba(7, 2, 17, 0.30);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+padding-left: 70px;
+
+}
+/* footer */
+#section9{
+   background-color: #070211;  
+  margin-top: 120px;
+  padding: 140px 120px;
+
+}
+.address{
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;}
+.social{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 50px;
+}
+.foot{
+    justify-content: space-between;
+    display: flex;
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+.foot button{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+background: transparent;
+border: none;
+}
+hr{
+    background: rgba(255, 255, 255, 0.15);
+}
